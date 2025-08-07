@@ -53,6 +53,17 @@ This project applies machine learning to identify patterns in customer behavior 
 - **Longer tenure**, **automatic payment methods**, and **fiber optic internet** are key indicators of customer behavior.
 - Feature engineering and the use of XGBoost significantly improved the model’s performance.
 
+📊 Power BI Dashboard
+We also created an interactive Power BI dashboard to visualize churn patterns across different customer segments.
+
+Key insights visualized:
+
+Churn rate by contract type, payment method, and tenure
+
+Demographic trends (senior citizens, gender, etc.)
+
+Service usage vs churn likelihood
+
 
 
 
