@@ -54,6 +54,7 @@ This project applies machine learning to identify patterns in customer behavior 
 - Feature engineering and the use of XGBoost significantly improved the model’s performance.
 
 📊 Power BI Dashboard
+
 We also created an interactive Power BI dashboard to visualize churn patterns across different customer segments.
 
 Key insights visualized:
